@@ -1,2 +1,1 @@
-# rahilsharma.github.io
-Personal Site
+# Rahil Sharma Resume
